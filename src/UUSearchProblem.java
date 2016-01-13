@@ -65,6 +65,9 @@ public abstract class UUSearchProblem {
 			// visit node from frontier
 			UUSearchNode tovisit = frontier.removeFirst();
 
+			// increment count
+			incrementNodeCount();
+
 			// termination condition
 			if (tovisit.goalTest())
 				return backchain(tovisit, backchainMap);
@@ -77,8 +80,6 @@ public abstract class UUSearchProblem {
 					frontier.addLast(child);
 					visited.add(child);
 
-					// increment count
-					incrementNodeCount();
 				}
 			}
 		}
@@ -140,7 +141,7 @@ public abstract class UUSearchProblem {
 
 		// recursive case
 		for(UUSearchNode child: currentNode.getSuccessors()){
-			if(!visited.containsKey(child) || visited.get(child) >= depth){
+			if(!visited.containsKey(child)){
 				visited.put(child,depth+1);
 				LinkedList<UUSearchNode> array = (LinkedList<UUSearchNode>) dfsrm(child, visited,depth+1,maxDepth); // recursion
 

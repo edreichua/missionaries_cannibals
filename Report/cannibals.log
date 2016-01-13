@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  10 JAN 2016 15:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  11 JAN 2016 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,94 +394,89 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
 
  []
 
 [5] <dfs.pdf, id=456, 722.7pt x 542.025pt>
 File: dfs.pdf Graphic file (type pdf)
  <use dfs.pdf>
-Package pdftex.def Info: dfs.pdf used on input line 261.
+Package pdftex.def Info: dfs.pdf used on input line 260.
 (pdftex.def)             Requested size: 216.81166pt x 162.60875pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
 
  []
 
 [6 <./dfs.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--300
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
 
  []
 
 [10] (./cannibals.aux) ) 
 Here is how much of TeX's memory you used:
- 4997 strings out of 493315
- 71809 string characters out of 6137904
- 324761 words of memory out of 5000000
- 8337 multiletter control sequences out of 15000+600000
+ 4996 strings out of 493315
+ 71786 string characters out of 6137904
+ 308761 words of memory out of 5000000
+ 8336 multiletter control sequences out of 15000+600000
  13111 words of font info for 53 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,7n,43p,859b,1536s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,7n,43p,1187b,1544s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/am
@@ -493,7 +488,7 @@ m/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/c
 msy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 tt10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 t9.pfb>
-Output written on cannibals.pdf (10 pages, 604057 bytes).
+Output written on cannibals.pdf (10 pages, 604047 bytes).
 PDF statistics:
  602 PDF objects out of 1000 (max. 8388607)
  324 compressed objects within 4 object streams
